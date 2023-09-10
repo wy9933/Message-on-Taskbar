@@ -5,4 +5,5 @@
 顺便作为PyQt的练手和知识库
 
 参考代码：
-# https://www.wangxingyang.com/windowsfundplugin.html
+
+[Windows任务栏基金插件](https://www.wangxingyang.com/windowsfundplugin.html)
